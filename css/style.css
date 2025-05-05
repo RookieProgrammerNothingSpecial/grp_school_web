@@ -116,104 +116,87 @@ padding-left:10px;
     .imggallery img{
         border-radius: 220px;
     }
-    .maintext1{
-        text-align:center;
-        font-size:30px;
-        text-transform:uppercase;
-        color:rgb(124, 55, 24);
-        padding-top:20px;
-       
-    }
-    .bold1{
-        text-align:center;
-        color:black;
-        font-size:20px;
-        padding-top:15px;
-    }
-    .text1{
-        padding-top:15px;
-        color:black;
-        font-size:15px;
-        text-align:center;
-        text-transform:capitalize;
-    }
-    .image3{
-        padding-top:30px;
-        padding-left:70px;
-        padding-right:300px;
-     
-       
-      
-    }
-    .bold2{
-      
-        color:rgb(124, 55, 24);
-        font-size:25px;
-        padding-top:30px;
-        padding-left:70px;
-        padding-right:300px;
-    }
-    .boldtext{
-        
-        padding-top:5px;
-        padding-left:70px;
-        padding-right:300px;
-        color:rgb(165, 68, 22);
-        font-size:20px;
-        text-transform:capitalize ;
-        
-    }
-    .text2{
-        
-        padding-top:15px;
-        color:black;
-        font-size:15px;
-       text-transform:capitalize;
-       padding-left:70px;
-       padding-right:300px;
-    }
-    .image4{
-        padding-top:30px;
-        padding-left:30px;
-        padding-right:700px;
-     
-       
-      
-    }
-    .maintext2{
-        display:flex;
-        column-gap:0px;
-    }
-    .bold3{
-      
-        color:rgb(124, 55, 24);
-        font-size:25px;
-        padding-top:30px;
-        padding-left:30px;
-        padding-right:700px;
-    }
-    .boldtext1{
-        
-        padding-top:5px;
-        padding-left:30px;
-        padding-right:700px;
-        color:rgb(165, 68, 22);
-        font-size:20px;
-        text-transform:capitalize ;
-        
-    }
-    .text3{
-        
-        padding-top:15px;
-        color:black;
-        font-size:15px;
-       text-transform:capitalize;
-       padding-left:30px;
-       padding-right:700px;
-    }
+   
     .rounded{
         border-radius: 100%;
     }
+    .maintext1{
+        color:rgb(124, 55, 24);
+        font-size:40px;
+        padding-left:400px;
+        padding-top:10px;
+        padding-right:400px;
+    }
+    .imagetext{
+        display:flex;
+        padding-top:8px;
+        padding-left:50px;
+    }
+    .bold1{
+        color:black;
+        padding-left:40px;
+        padding-right:40px;
+        font-size:30px;
+        padding-top:20px;
+     }
+     .text1{
+        color:gray;
+        font-size:15px;
+        padding-left:40px;
+        padding-right:40px;
+        padding-top:10px;
+     }
+     .imagetext1{
+        display:flex;
+        column-gap:60px;
+     }
+     .bold2{
+        color:black;
+        padding-left:60px;
+        padding-right:10px;
+        font-size:30px;
+        padding-top:40px;
+     }
+     .text2{
+        color:gray;
+        font-size:15px;
+        padding-left:60px;
+        padding-right:10px;
+        padding-top:10px;
+     }
+     .imagetext2{
+        display:flex;
+        padding-top:10px;
+        padding-left:50px;
+    }
+    .bold3{
+        color:black;
+        padding-left:60px;
+        padding-right:10px;
+        font-size:30px;
+        padding-top:40px;
+     }
+     .text3{
+        color:gray;
+        font-size:15px;
+        padding-left:60px;
+        padding-right:10px;
+        padding-top:10px;
+     }
+     .boldtext{
+        color:black;
+        font-size:30px;
+        padding-left:50px;
+        padding-top:30px;
+     }
+     .divtext1{
+        color:gray;
+        font-size:20px;
+        padding-left:50px;
+        padding-top:15px;
+        text-transform:capitalize;
+     }
+     
     /*Aaron's code*/
 body{
     margin: 0;
