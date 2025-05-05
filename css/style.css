@@ -22,7 +22,9 @@
             background-image:url("../images/banner.png");
             background-color:rgba(0,0,0,0.5);
             background-blend-mode:multiply;
-            background-size:cover;
+            background-size: 1000px 1000px;
+            background-position: 100px;
+            background-position-x: 8px;
             }
             body{
                 margin:0;
