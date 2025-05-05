@@ -79,7 +79,7 @@
       
 
       }
-      .redarea{
+      .redarea2{
         
         background-color:rgb(244, 226, 226);
         margin:20px;
@@ -128,7 +128,7 @@ padding-left:10px;
         padding-top:10px;
         padding-right:400px;
     }
-    .imagetext{
+    .imagetext2{
         display:flex;
         padding-top:8px;
         padding-left:50px;
@@ -140,7 +140,7 @@ padding-left:10px;
         font-size:30px;
         padding-top:20px;
      }
-     .text1{
+     .text5{
         color:gray;
         font-size:15px;
         padding-left:40px;
@@ -392,6 +392,7 @@ body{
     font-family:Roboto;
     padding-left:120px;
     padding-top:60px;
+    color:rgb(180, 72, 23) ;
    
 
 }
@@ -421,6 +422,10 @@ body{
     display:flex;
     padding-top:50px;
 
+}
+#unique_img1{
+    padding-right: 20px;
+    border-radius: 10px;
 }
 .d1text{
     font-size:27px;
